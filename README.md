@@ -49,10 +49,14 @@ Pivot Charts were created to help visualize:
 
 ### Pivot Table Example:
 This is an example of the pivot table showing countries grouped by age groups and the total order quantity for each:
-![Pivot Table](images/pivot_table_example.png)
+![Screenshot 2025-02-17 at 15 18 45](https://github.com/user-attachments/assets/63a6fbbd-cada-4f60-b6b1-72fffc0e8331)
+![Screenshot 2025-02-17 at 15 16 38](https://github.com/user-attachments/assets/b25e2d76-fa0a-4ee7-ba20-a77ca7c81081)
+
+
 
 ### Pivot Chart Example:
 This is an example of a pivot chart visualizing the trends in order quantity by age group and country:
-![Pivot Chart](images/pivot_chart_example.png)
+![Screenshot 2025-02-17 at 15 17 27](https://github.com/user-attachments/assets/2366663f-24ef-4ca4-844e-73748032a904)
+
 
 
