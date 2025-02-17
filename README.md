@@ -1,6 +1,6 @@
 # Bike-sales-dataset-using-Excel
 The bicycle sales company wants to determine the purchasing patterns of different demographic groups to identify areas where it needs to concentrate its marketing efforts. The company also wants to see if there are purchasing differences between the countries where it operates.  
-# Bike Sales Data Analysis
+# Bike Sales Data Analysis Project
 
 This project involves the analysis of a **Bike Sales** dataset using **Microsoft Excel**. The objective of this analysis was to gain insights into bike sales by exploring key dimensions such as **Year**, **Age Group**, **Customer Gender**, **Country**, and **Order Quantity**. I created **Pivot Tables** and **Pivot Charts** to summarize and visualize the data effectively, along with adding custom columns for **Commission** and **Total Sales**.
 
